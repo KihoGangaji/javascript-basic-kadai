@@ -6,5 +6,3 @@ const options = {
   day: 'numeric'
 };
 
-const formattedDate = date.toLocaleDateString('ja-JP', options);
-console.log(formattedDate);
